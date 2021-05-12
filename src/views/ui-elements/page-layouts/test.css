@@ -1,0 +1,17 @@
+.mainboard{
+    margin: 0 auto;
+    width: 50% !important;
+    margin-top: 5rem;
+}
+
+.bottomeLine{
+    border-bottom: 2px gray solid;
+}
+
+.marginLeft50{
+    margin-left: 2rem;
+}
+
+.marginTop20minus{
+    margin-top: -0.3rem;
+}
